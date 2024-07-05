@@ -1,0 +1,38 @@
+.traffic-light-bg-container {
+    background-color: #86d2f2;
+    height: 150vh;
+}
+
+.traffic-light-heading {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.box {
+    background-color: #1f1d41;
+    height: 320px;
+    width: 120px;
+    border-radius: 41px;
+    padding: 9px;
+}
+
+.button {
+    color: #ffffff;
+    font-size: 20px;
+    background-color: #1f1d41;
+    width: 80px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 42px;
+    margin-right: 20px;
+}
+
+.circle {
+    font-size: 20px;
+    background-color: #4b5069;
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    margin-top: 37px;
+    margin-left: 21px;
+}
